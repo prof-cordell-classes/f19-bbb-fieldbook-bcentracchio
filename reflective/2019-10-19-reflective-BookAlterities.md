@@ -15,4 +15,12 @@ the trees themselves books? They are growing with the intent of being books, but
 fused with content. Inaccessible "books" fall under a unique category in my personal working definition. They give off a much more 
 frustrating feeling, but as long as content and structure are there, I'm willing to see them as a valuable book.
 
-Another inaccessible artist book we studied was _Boundless_, in the NU Archives. It was a disc of paper connected by spiral notebook binding.
+Another inaccessible artist book we studied was _Boundless_, in the NU Archives. It was a disc of paper connected by spiral notebook 
+binding. The catch is that it's ironically completely bound, with no way to know whether there are words printed, let alone what they might 
+be. The only way to find out is to rip the book, thereby ruining the mysterious effect. The author David Stairs seemingly challenges the 
+reader's (or rather, consumer's) resilience to temptation. I felt like if encountered the book as a kid  I would've ripped  it open after  
+a few minutes, just to satiate my curiosity. But once I found out what was contained within, the book would lose all value and I would 
+probably discard it, never to think about it again. In the end the content doesn't really matter. It's a literary Schroedinger's cat, where 
+the question is more entertaining than the answer. This example has a structure that directly influences the *idea* of content, once again 
+frustratingly fitting within my classification of a book. The funniest part to me is that it costs $15, and would never be opened. 
+
