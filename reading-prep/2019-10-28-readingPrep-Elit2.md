@@ -10,9 +10,10 @@ narrative? What if it was truly  intelligent, and was a natural conversation? Th
 consider the AI itself e-lit?
 
 3. *Observation*: Notes on *Hobo Lobo of Hamelin* from Electronic Literature Collection Volume 3.
+
 -The piece is an electronic pop-up book, with illustrations that accompany a fantastical story with sinister political and moral undertones
 -Immediately the narrator has a very unique, unabashed voice: "Once upon a time, in an age long forgotten because it was somewhat boring
 and contrived..."
 -It feels like the book could have been an interpretation of a real picture book. Aside from a few small animations and music, the 
 electronic format is unnessential to the story. It could easily be converted to paper. That characteristic influences my comprehension of
-the piece, because it feels more familiar than a more extreme projecct like *What football Will Look Like in the Future*.
+the piece, because it feels more familiar than a more extreme projecct like *What Football Will Look Like in the Future*.
