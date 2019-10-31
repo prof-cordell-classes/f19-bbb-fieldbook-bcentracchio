@@ -17,6 +17,13 @@ portable. In the Jabr article he touches on the temporary feeling of e-lit: "man
 their impermanence and intangibility". He refers to the idea that the literature could be erased with the click of a mouse and we haven't
 built enough of an archival infrastructure to store the creations like we can in a library. I would counter to say our society is 
 progressing further with that technological system, and soon it might be even more permanent than paper. Paper can be burned and is 
-subjected to more natural damage from the elements. Internet literature has the unique ability to be stored in a cloud, thus ironically 
+subjected to more natural damage from the elements. Internet literature has the unique ability to be stored in a cloud, thus (ironically) 
 avoiding weather and erosion.
 
+Besides advantages and limitations e-lit can also be viewed as a technological progression. From *Agrippa* in the 90's all the way to the 
+recent *WFWLLITF* many modes and types of e-books have been created. Some could be printed off and put into codex form easily (like from a 
+kindle), others cannot separate code from content. Considering we began with cuneiform tablets and evolved through hieroglyphics, scrolls 
+and the printing press, the computer still feels like the next big thing. E-lit is only one stop on an evolution timeline and before we can 
+judge the entirety of e-lit we have to consider where it might lead us. Interactive books like *Bandersnatch* or virtual reality still have 
+a fresh feeling. Technology will appeal more and more to our different senses and desires. While paper will always play an enormous role in 
+the definition/history of the book, our evolving society will give rise to brand new exciting ideas.
